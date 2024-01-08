@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vVa6feJTnaomWLVbwaU4gIpQ6LFCCbAHIKKLnml6guw=",
+  "Source": "YounathanASayHelloEndpoint",
+  "BasePath": "_content/YounathanASayHelloEndpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
